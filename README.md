@@ -1,2 +1,2 @@
 # scripting
-Random scripts on bash or powershell i might write over time.
+Collection of small bash-scripts or powershell utilities.
